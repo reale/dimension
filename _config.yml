@@ -13,6 +13,7 @@ country:
 phone:
 
 icon: # Font Awesome class for your site's icon
+formspree_id: # formspree.io
 
 # Social settings
 facebook_url:
