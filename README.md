@@ -1,5 +1,7 @@
 # Dimension - Jekyll Theme
 
+![Uptime Robot](https://img.shields.io/uptimerobot/status/m788027935-108eafb5e414562fe8e02895)
+
 A Jekyll version of the "Dimension" theme by [HTML5 UP](https://html5up.net/).
 
 ![Dimension Theme](assets/images/screenshot.jpg "Dimension Theme")
