@@ -19,6 +19,21 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 
 * Add your **social profiles** easily in `_config.yml`.
 
+# Installation
+
+Fork this repository or use it as a template. If you need more control on the process, you can:
+
+```
+$ git clone --bare https://github.com/reale/dimension.git
+$ cd dimension.git
+$ git push --mirror https://github.com/reale/NEW_REPO.git
+$ cd .. && rm -fr dimension.git
+$ git clone https://github.com/reale/NEW_REPO.git
+$ git remote add upstream https://github.com/reale/dimension.git
+```
+
+Then configure Formspree.io and UptimeRobot.
+
 # Configuration
 
 You can use the following custom parameters in `_config.yml`.
